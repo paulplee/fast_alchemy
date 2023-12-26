@@ -2,6 +2,8 @@
 
 ![alt text](FastAPI.png)
 
+[Original blog post](https://dassum.medium.com/building-rest-apis-using-fastapi-sqlalchemy-uvicorn-8a163ccf3aa1)
+
 ### FastAPI
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
